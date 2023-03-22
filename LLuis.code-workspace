@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../paginaApi"
+		},
+		{
+			"name": "Flores",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Flores"
+	}
+}
